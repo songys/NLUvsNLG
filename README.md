@@ -11,7 +11,7 @@
 
 영어 자연어 생성의 과제 예시는 The GEM Benchmark 데이터 세트를 통해 구체적으로 확인할 수 있다.    
 
-![GEM](./GEM.png)
+![GEM](./gemimage.png)
 
 참고자료        
 Ehud Reiter and Robert Dale. 2000. Building natural language generation systems. Cambridge university press        
