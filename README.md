@@ -6,9 +6,9 @@
 
 한국어 자연어 이해의 과제   영어 자연어 이해의 과제     
 
-![quick_peek](.KLUG.png)
+![KLUE vs GLUE](./KGLUE.png)
 
 
 영어 자연어 생성의 과제 예시는 The GEM Benchmark 데이터 세트를 통해 구체적으로 확인할 수 있다.    
 
-![quick_peek](.GEM.png)
+![GEM](./GEM.png)
